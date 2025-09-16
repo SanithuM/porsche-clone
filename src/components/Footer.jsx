@@ -78,7 +78,6 @@ function Footer() {
         &copy; {new Date().getFullYear()} Porsche. All rights reserved.
       </div>
 
-      {/* Porsche Text */}
       <div className="mt-4 text-center text-white text-xl font-bold tracking-widest uppercase"
       style={{ fontFamily: "'911 Porscha', sans-serif" }}>
         PORSCHE
