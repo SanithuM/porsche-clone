@@ -12,7 +12,7 @@ function Hero() {
         playsInline
       ></video>
 
-      {/* Dark overlay for readability */}
+      {/* Dark overlay */}
       <div className="absolute top-0 left-0 w-full h-full bg-black/40"></div>
 
       {/* Content */}
